@@ -1,6 +1,8 @@
 
 <h1 align="center"> Gif Expert App🚶 </h1>
-<center> `https://gif-expert-app-ip.netlify.app/` </center>
+```bash
+https://gif-expert-app-ip.netlify.app/
+```
 
 
 **Tabla de contenido**   
