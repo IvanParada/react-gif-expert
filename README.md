@@ -35,7 +35,7 @@ https://gif-expert-app-ip.netlify.app/
   * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     
 * <b>APIs y servicios de terceros:</b>
-  * <img src="https://images.gmanews.tv/webpics/2021/12/giphy_logo_2021_12_24_01_33_02.jpg" alt="Descripción de la imagen" width="200">
+  * <img src="https://images.gmanews.tv/webpics/2021/12/giphy_logo_2021_12_24_01_33_02.jpg" alt="Descripción de la imagen" width="100">
 
 
 ## 💻 Características<a name="caract"></a>
