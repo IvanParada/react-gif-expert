@@ -125,5 +125,10 @@ Asegúrate de cumplir con todos estos requisitos previos antes de proceder con l
 
 ## 🖥️ Demostración<a name="img"></a>
 
-https://github.com/IvanParada/react-gif-expert/assets/118088453/80293471-7184-4cf2-b5e1-4889d06cdbc9
+<video width="320" height="240" controls loop>
+  <source src="https://github.com/IvanParada/react-gif-expert/assets/118088453/80293471-7184-4cf2-b5e1-4889d06cdbc9" type="video/mp4">
+  Tu navegador no soporta el elemento de video.
+</video>
+
+
 
