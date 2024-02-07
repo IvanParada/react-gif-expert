@@ -14,28 +14,29 @@ https://gif-expert-app-ip.netlify.app/
 * [Dirigiendo el proyecto](#instrucciones)
 * [Demostración](#img)
 ## 📋 Descripción<a name="descripcion"></a>
-   El siguiente proyecto consiste en una aplicación web, en la cual el usuario puede realizar busqueda de gif a través de una barra de búsqueda
+  El siguiente proyecto es una aplicación web donde los usuarios pueden realizar búsquedas de gifs utilizando una barra de búsqueda integrada.
 
 ## ✔️ Tecnologías usadas<a name="tec-util"></a>
 
 * <b>Lenguaje de programación:</b>
-  * Javascript
+  * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 * <b>Frameworks y bibliotecas:</b>
-  * React
+  * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
         
 * <b>Herramientas de desarrollo:</b>
-  * Vite
-  * Visual Studio Code
+  * ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+  * ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     
 * <b>Gestor de paquetes:</b>
-  * Yarn
+  * ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
     
 * <b>Control de versiones:</b>
-  * Git
+  * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     
 * <b>APIs y servicios de terceros:</b>
-  * GIPHY API
+  * <img src="https://images.gmanews.tv/webpics/2021/12/giphy_logo_2021_12_24_01_33_02.jpg" alt="Descripción de la imagen" width="300">
+
 
 ## 💻 Características<a name="caract"></a>
 
